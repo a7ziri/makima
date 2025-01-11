@@ -1,0 +1,8 @@
+openai
+torch
+TTS
+pyaudio
+pygame
+sounddevice
+faster-whisper
+numpy
